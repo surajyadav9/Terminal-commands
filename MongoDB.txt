@@ -1,0 +1,13 @@
+// MongoDB Terminal Commands :=>
+
+1.Set MongoDB path :
+    search(system enviroment variable) -> Advance(Enviroment variable) -> system variable(path) -> set mongodb path to existing path ->OK
+
+
+
+2.To Start MongoDB server locally :
+    $/c/"Program Files"/MongoDB/Server/4.0/bin/mongod.exe --dbpath=/c/mongodb-data
+                                                          //db path,where the mongodb data resides, we can cutomize it as our own
+                                                             
+3.To connect to Atlas : 
+    paste the 'connect to mongo shell' string into the terminal  -> varify password                                                        

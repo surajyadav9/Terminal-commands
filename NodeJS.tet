@@ -1,0 +1,12 @@
+// NodeJS Terminal Commands :=>
+
+1.Generate default npm package.json file :
+    $npm init -y
+
+
+2.Install package latest: 
+    $npm i package@1.19.0       //(as Dependency) 
+    $npm i -D package@1.19.0   //(as devDependency)
+
+3.Run script :
+    $npm run <script_name>
